@@ -1,0 +1,24 @@
+.senha input {
+    margin-top: 20px;
+    padding: 12px;
+    width: 250px;
+    border: none;
+    border-radius: 10px;
+    font-size: 1em;
+    outline: none;
+}
+
+.senha button {
+    margin-top: 15px;
+    padding: 12px 30px;
+    background: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+#erro {
+    margin-top: 10px;
+    color: #ffb3b3;
+    font-size: 0.9em;
+}
